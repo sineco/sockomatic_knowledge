@@ -19,21 +19,27 @@ Tired of losing socks in the laundry? Say hello to the **Sock-o-Matic 5000**—t
 
 ## 🛠️ Installation & Setup  
 1. **Attach RFID Tags** – Place the included smart tags on each sock.  
-2. **Install the App** – Download the **Sock-o-Matic 5000 app** from the [Google Play Store](https://play.google.com) or [Apple App Store](https://www.apple.com/app-store/).  
+2. **Install the App** – Download the **Sock-o-Matic 5000 app** from the Google Play Store or Apple App Store.  
 3. **Connect to Wi-Fi** – Ensure your base unit is connected to a **2.4GHz network**.  
 4. **Pair Your Socks** – Scan your socks into the system for tracking.  
 5. **Never Lose Socks Again!**  
 
 ## 🔧 Troubleshooting  
 ### Common Issues & Solutions  
-| Issue | Solution |
-|--------|----------|
-| **Missing Sock Alert, but my sock is here** | Perform a **Sensor Diagnostic Test** in the app. |
-| **Device Won’t Connect to Wi-Fi** | Ensure you are using a **2.4GHz network** and restart your router. |
-| **Mismatched Socks Detected** | Enable **“Strict Matching Mode”** in the app settings. |
-| **False Sock Loss Alerts** | Update firmware and recalibrate RFID sensors in the app. |
 
-For detailed troubleshooting, visit our [FAQ page](docs/FAQ.md).  
+**Missing Sock Alert, but my sock is here**  
+Perform a **Sensor Diagnostic Test** in the app.  
+
+**Device Won’t Connect to Wi-Fi**  
+Ensure you are using a **2.4GHz network** and restart your router.  
+
+**Mismatched Socks Detected**  
+Enable **“Strict Matching Mode”** in the app settings.  
+
+**False Sock Loss Alerts**  
+Update firmware and recalibrate RFID sensors in the app.  
+
+For detailed troubleshooting, visit our FAQ page.  
 
 ## 🏗️ Roadmap  
 - ✅ **Current Version:** Sock-o-Matic 5000 (v1.0)  
@@ -43,16 +49,16 @@ For detailed troubleshooting, visit our [FAQ page](docs/FAQ.md).
   - **Multi-User Support** – Households can track socks across different family members.  
 
 ## 📜 License  
-This project is licensed under the **MIT License** – see the [LICENSE.md](LICENSE.md) file for details.  
+This project is licensed under the **MIT License** – see the LICENSE.md file for details.  
 
 ## 🤝 Contributing  
-We welcome contributions! Feel free to open an issue or submit a pull request. Check out our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.  
+We welcome contributions! Feel free to open an issue or submit a pull request. Check out our CONTRIBUTING.md for guidelines.  
 
 ## 💌 Support  
 Having trouble? Reach out via:  
 📧 **Support Email:** support@sockomatic.com  
-🌍 **Website:** [www.sockomatic.com](https://www.sockomatic.com)  
-🐦 **Twitter/X:** [@SockOMatic5000](https://twitter.com/SockOMatic5000)  
+🌍 **Website:** www.sockomatic.com  
+🐦 **Twitter/X:** @SockOMatic5000  
 
 ---
 
